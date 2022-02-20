@@ -1,2 +1,2 @@
 # python_template
-Template repository with github workflow setup to check code quality with mypy and black.
+Template repository using poetry. Quality control is done with github actions (mypy and black); pre-commit checks black and flake8.
